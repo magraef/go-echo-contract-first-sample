@@ -1,0 +1,6 @@
+output:
+  router_delegate_gen.go
+package: web
+generate:
+  - server
+  - types
