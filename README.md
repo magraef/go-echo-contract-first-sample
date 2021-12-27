@@ -22,12 +22,12 @@ The app exposes a health endpoint at http://localhost:8080/q/health.
 
 The application can be configured via [envconfig](https://github.com/kelseyhightower/envconfig). The following list shows the corresponding env var with default value.
 
-Envvar name | default value |^
+Envvar name | default value |
 :--- | ---: | 
 `APP_PORT` | `8080`
 `APP_API_BASE_URI` | `api`
 `APP_DEBUG` | `false`
-`APP_JSON_LOG` | `false`
+`APP_JSON_LOG` | `false` 
 
 # Local Dev
 
